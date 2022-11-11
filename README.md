@@ -10,13 +10,13 @@
 Далее приведены скриншоты работы приложения.
 
 Начальное окно содержит информацию о правилах игры «Морской бой», особенностях данного приложения и авторе приложения. После прочтения пользователю необходимо нажать любую клавишу, после чего происходит переход к следующему окну.
-![Начальное окно](https://github.com/DmT14/SeaBattle/blob/main/screenshots/start_window.png)
+<img src="https://github.com/DmT14/SeaBattle/blob/main/screenshots/start_window.png" alt="Начальное окно" width="200"/>
 
 В окне расстановки кораблей пользователю предлагается поочерёдно расставить корабли на своём поле посредством ввода координат начала и конца корабля.
-![Окно расстановки кораблей](https://github.com/DmT14/SeaBattle/blob/main/screenshots/ships_arrangement.png)
+<img src="https://github.com/DmT14/SeaBattle/blob/main/screenshots/ships_arrangement.png" alt="Окно расстановки кораблей" width="200"/>
 
 После успешной расстановки кораблей пользователем происходит переход к следующему окну, в котором осуществляется игровой процесс.
-![Окно игры](https://github.com/DmT14/SeaBattle/blob/main/screenshots/game_window.png)
+<img src="https://github.com/DmT14/SeaBattle/blob/main/screenshots/game_window.png" alt="Окно игры" width="200"/>
 
 По завершении игры появляется окно, в котором пользователь видит свое поле, а также поле компьютера. Если пользователь проиграл, он может посмотреть, где стояли не потопленные корабли компьютера. В этом же окне пользователь может сделать выбор: выйти из приложения или же начать новую игру.
-![Окно по завершении игры](https://github.com/DmT14/SeaBattle/blob/main/screenshots/finish_window.png)
+<img src="https://github.com/DmT14/SeaBattle/blob/main/screenshots/finish_window.png" alt="Окно по завершении игры" width="200"/>
